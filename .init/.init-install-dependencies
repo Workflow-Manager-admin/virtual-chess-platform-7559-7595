@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/virtual-chess-platform-7559-7595/chess_board_frontend"
+}
